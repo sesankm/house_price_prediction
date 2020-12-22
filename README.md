@@ -14,6 +14,6 @@
 ![alt text](https://github.com/sesankm/house_price_prediction/blob/main/plots/listings.png)
 
 ## Models
-* <strong>Linear Regression</strong>: R2=.61
-* <strong>Bagging Regressor</strong>: R2=.975
-* <strong>Random Forest Regressor</strong>: R2=.976
+* <strong>Linear Regression</strong>: R2=.65
+* <strong>Bagging Regressor</strong>: R2=.97
+* <strong>Random Forest Regressor</strong>: R2=.99
