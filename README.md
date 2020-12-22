@@ -4,11 +4,11 @@
 * scraped data from homefinder.com
 * developed regression models to predict house price based
 
-## Libraries used:
+## Libraries used
 <strong>Python Version:</strong> 3.8 <br>
 <strong>Libraries:</strong> pandas, scikit-learn, matplotlib, beautifulsoup4
 
-## Resources:
+## Resources
 [Productionize a Machine Learning Model with Flask and Heroku by Chris I.](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
 
 ## EDA
