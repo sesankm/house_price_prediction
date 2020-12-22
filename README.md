@@ -8,6 +8,9 @@
 <strong>Python Version:</strong> 3.8 <br>
 <strong>Libraries:</strong> pandas, scikit-learn, matplotlib, beautifulsoup4
 
+## Resources:
+[Productionize a Machine Learning Model with Flask and Heroku by Chris I.](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
+
 ## EDA
 ![alt text](https://github.com/sesankm/house_price_prediction/blob/main/plots/dist1.png)
 ![alt text](https://github.com/sesankm/house_price_prediction/blob/main/plots/dist2.png)
