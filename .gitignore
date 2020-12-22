@@ -1,0 +1,4 @@
+flask_env
+__pychace__/
+.DS_Store
+house_prices.csv
