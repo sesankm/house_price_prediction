@@ -40,6 +40,7 @@ plt.setp(ax.get_xticklabels(), rotation=90)
 plt.show()
 
 # Preprocessing
+df = df[df["Type"] != "Apartment"]
 df["Type"] = CountVectorizer().fit_transform(df["Type"].tolist()).toarray().tolist()
 df["Type"] = df["Type"].apply(lambda x: x.index(1))
     
